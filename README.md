@@ -13,6 +13,8 @@ https://wiki.cancerimagingarchive.net/display/Public/CT+Images+in+COVID-19
 
 https://github.com/mr7495/COVID-CTset
 
+https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19
+
 The above links are mostly for COVID data. There might be some non-COVID cases. Please read the data description before using them. 
 
 Non-COVID data is available at the below link:
