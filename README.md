@@ -1,5 +1,11 @@
 # CovCT
 
+[![GitHub stars](https://img.shields.io/github/stars/monjoybme/CovCT)](https://github.com/monjoybme/CovCT/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/monjoybme/CovCT)](https://github.com/monjoybme/CovCT/issues)
+[![GitHub forks](https://img.shields.io/github/forks/monjoybme/CovCT)](https://github.com/monjoybme/CovCT/network)
+![GitHub License](https://img.shields.io/github/license/monjoybme/CovCT)
+
+
 This repository has been created for the development of an android application (CovCT) for analyzing COVID and non-COVID data. 
 
 ## Data
