@@ -26,4 +26,9 @@ The above links are mostly for COVID data. There might be some non-COVID cases. 
 Non-COVID data is available at the below link:
 https://wiki.cancerimagingarchive.net/display/NLST/National+Lung+Screening+Trial
 
+Challenge competitions
+https://wiki.cancerimagingarchive.net/display/Public/Research+Projects
+
+https://www.kaggle.com/andyczhao/covidx-cxr2
+
 You can also search on https://datasetsearch.research.google.com/ for more data. 
