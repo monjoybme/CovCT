@@ -1,4 +1,4 @@
-# CovCT
+# CovCT [Paper Link](https://www.sciencedirect.com/science/article/pii/S0010482522000907)
 
 [![GitHub stars](https://img.shields.io/github/stars/monjoybme/CovCT)](https://github.com/monjoybme/CovCT/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/monjoybme/CovCT)](https://github.com/monjoybme/CovCT/issues)
